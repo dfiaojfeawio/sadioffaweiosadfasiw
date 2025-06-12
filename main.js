@@ -1,1 +1,1 @@
-console.log('i am a nice action. i do not do anything bad')
+console.log('i am a nasty action. i do bad things')
